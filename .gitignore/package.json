@@ -1,0 +1,14 @@
+{
+  "name": "discord-misc-bot",
+  "version": "1.0.0",
+  "description": "DiscordMiscBot",
+  "main": "index.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2"
+  }
+}
